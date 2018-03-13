@@ -1,6 +1,6 @@
 # bad_compression
 
-This was an exercise in understanding (LZMA) sliding window compression algorithm and efficiency. 
+This was an exercise in understanding (LZMA) lossless sliding window compression algorithm and efficiency. 
 
 Learn more at: 
 https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm
